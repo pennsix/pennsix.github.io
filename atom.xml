@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pennsix.github.io</id>
     <title>佩恩六道</title>
-    <updated>2020-07-29T03:56:55.526Z</updated>
+    <updated>2020-07-29T04:00:10.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pennsix.github.io"/>
     <link rel="self" href="https://pennsix.github.io/atom.xml"/>
@@ -12,11 +12,12 @@
     <rights>All rights reserved 2020, 佩恩六道</rights>
     <entry>
         <title type="html"><![CDATA[45种攻入后台的方法]]></title>
-        <id>https://pennsix.github.io/post/45-chong-gong-ru-hou-tai-de-fang-fa/</id>
-        <link href="https://pennsix.github.io/post/45-chong-gong-ru-hou-tai-de-fang-fa/">
+        <id>https://pennsix.github.io/post/45-pentest/</id>
+        <link href="https://pennsix.github.io/post/45-pentest/">
         </link>
         <updated>2020-07-29T03:52:35.000Z</updated>
-        <summary type="html"><![CDATA[<p>45种攻入后台的方法<br>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://pennsix.github.io/post-images/1595995085008.png" alt="" loading="lazy"></figure>
+<p>45种攻入后台的方法<br>
 1、到Google搜索，site:cq.cn inurl:asp<br>
 2、到Google，搜索一些关键字，edit.asp? 韩国肉鸡为多，多数为MSSQL数据库!<br>
 3、利用挖掘鸡和一个ASP木马：<br>
@@ -236,7 +237,8 @@ BBsXp 5.0 sp1 管理员猜解器<br>
 后台:/admin</p>
 <p>by无心 QQ1094389926</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>45种攻入后台的方法<br>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://pennsix.github.io/post-images/1595995085008.png" alt="" loading="lazy"></figure>
+<p>45种攻入后台的方法<br>
 1、到Google搜索，site:cq.cn inurl:asp<br>
 2、到Google，搜索一些关键字，edit.asp? 韩国肉鸡为多，多数为MSSQL数据库!<br>
 3、利用挖掘鸡和一个ASP木马：<br>
